@@ -1,4 +1,4 @@
 My Eurorack performance features two variations: the first features a simple arpeggiated riff synth with heavy reverb, which is the base of the performance and the second is the same thing but distorted with some live changes. 
 The basis for both patches is the Rene Classic sequencer running a slightly detuned note sequence from a DPO sine wave, which is triggered by the Pamela's Workout clock. The signal is then routed into the Erbe-Verb, and then the Echophon,
 into the mixer and then out through the Rosie. I then attempted to tweak the settings while the performance was going, adjusting the reverb size, the EchoPhon's depth, pitch and echo, as well as tweaking the xmod knob. This resulted
-in a completely distorted sound which I then began recording as I continued to mess with the settings.
+in a completely distorted sound which I then began recording as I continued to mess with the settings, which gave me the V1 and V2 performance variations.
