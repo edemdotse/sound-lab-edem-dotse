@@ -1,1 +1,1 @@
-
+This repository represents my documentation of my contribution to Mary's project. It is a series of visual videos meant to accompany the use of the accelerometer, which could be potentially triggered when the belt is used. I tried to make the videos into a loop so that they could be blended in and out as different trigger point reactions to the music.
