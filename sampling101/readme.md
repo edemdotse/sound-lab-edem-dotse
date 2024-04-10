@@ -1,1 +1,1 @@
-My nonmusical sample is the sound of a spoon hitting a pyrex bowl. 
+My nonmusical sampled instrument is the sound of a spoon hitting a pyrex bowl. I do not use Ableton so I was not sure how to work with the samples outside creating the pack. I used it as a percussion in a song made with Splice and FL studio. 
